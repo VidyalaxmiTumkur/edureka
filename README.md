@@ -1,2 +1,2 @@
 # edureka
-Learning git from Edureka
+Learning git from Edureka. It fun learning till now...
